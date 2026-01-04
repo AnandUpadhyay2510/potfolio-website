@@ -1,0 +1,16 @@
+/* External CSS File */
+
+h3 {
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.external-style {
+    background-color: #e0f7fa;
+    color: #006064;
+    padding: 15px;
+    margin: 10px;
+    border: 2px dashed #006064;
+    font-size: 17px;
+}
